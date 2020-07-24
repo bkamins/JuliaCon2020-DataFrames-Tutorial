@@ -46,7 +46,9 @@ installed. The simplest way to do it is to perform the following steps
 1. Open a terminal in a directory where you want to have the tutorial to be
    stored.
 2. Run `git clone https://github.com/bkamins/JuliaCon2020-DataFrames-Tutorial.git`
-   to download the repository with the turorial.
+   to download the repository with the turorial (if you to not have `git`
+   installed then you can download a Zip of this repository from GitHub and
+   unpack it locally).
 3. Run `cd JuliaCon2020-DataFrames-Tutorial` to switch a directory to the one
    where the tutorial has been downloaded.
 4. On Kaggle go to
