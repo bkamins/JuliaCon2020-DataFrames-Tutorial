@@ -21,15 +21,13 @@ The tutorial is split in two parts (there is going to be a short break between
 them during the conference):
 
 * Introductory: "by example" explanation of indexing and broadcasting
-  rules in DataFrames.jl (file: *indexing_part1_introduction.ipynb*).
+  rules in DataFrames.jl (file *indexing_part1_introduction.ipynb* if you want
+  to do exercises by yourself or file
+  *indexing_part1_introduction_solutions.ipynb* if you prefer just to see the
+  solutions immediately).
 * Advanced: detailed discussion how indexing in DataFrames.jl
   is actually implemented, and what are key design challenges
   (file: *indexing_part2_advanced.ipynb*).
-
-Some cells in the Jupyter Notebooks are intentionally left blank - they are
-indented as exercises for the participants. The solutions are given during the
-workshop (it is being recorded for a future reference, a link to the video will
-be added here after it is made available).
 
 ## Preparing for running the tutorial
 
