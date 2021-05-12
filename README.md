@@ -5,15 +5,12 @@
 This tutorial is prepared for JuliaCon2020 presentation [A deep dive into
 DataFrames.jl indexing](https://pretalx.com/juliacon2020/talk/8SFYHK/).
 
-This version is updated to DataFrames.jl 0.22 release.
+This version is updated to DataFrames.jl 1.1.1 release.
 
 Its focus is on discussing all the details of indexing in DataFrames.jl. If you
 are interested in introductory tutorials about how to use DataFrames.jl, please
-check out
-[this](https://bkamins.github.io/julialang/2020/05/25/data-frames-part1.html)
-and
-[this](https://bkamins.github.io/julialang/2020/05/30/data-frames-part2.html)
-posts and in general you might want to have a look at [my
+check out the list [here](https://dataframes.juliadata.org/stable/)
+and in general you might want to have a look at [my
 blog](https://bkamins.github.io/) as most of the posts there are somehow related
 to DataFrames.jl.
 
@@ -33,7 +30,7 @@ them during the conference):
 
 ## Preparing for running the tutorial
 
-All the examples are prepared under Julia 1.5.3. If you use any other version of
+All the examples are prepared under Julia 1.6.1. If you use any other version of
 Julia 1.x the examples should just work (if they do not please let me know via
 an Issue). In such a case you should change the kernel in the Jupyter Notebook
 to match the one Julia version you have installed.
