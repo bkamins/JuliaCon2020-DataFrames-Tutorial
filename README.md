@@ -5,7 +5,7 @@
 This tutorial is prepared for JuliaCon2020 presentation [A deep dive into
 DataFrames.jl indexing](https://pretalx.com/juliacon2020/talk/8SFYHK/).
 
-This version is updated to DataFrames.jl 1.1.1 release.
+This version is updated to DataFrames.jl 1.2.0 release.
 
 Its focus is on discussing all the details of indexing in DataFrames.jl. If you
 are interested in introductory tutorials about how to use DataFrames.jl, please
