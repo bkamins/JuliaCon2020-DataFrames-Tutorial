@@ -5,7 +5,7 @@
 This tutorial is prepared for JuliaCon2020 presentation [A deep dive into
 DataFrames.jl indexing](https://pretalx.com/juliacon2020/talk/8SFYHK/).
 
-This version is updated to DataFrames.jl 1.3.0 release and Julia 1.7.0.
+This version is updated to DataFrames.jl 1.4.0 release and Julia 1.8.2.
 
 Its focus is on discussing all the details of indexing in DataFrames.jl. If you
 are interested in introductory tutorials about how to use DataFrames.jl, please
@@ -30,10 +30,7 @@ them during the conference):
 
 ## Preparing for running the tutorial
 
-All the examples are checked under Julia 1.7.0. If you use any other version of
-Julia 1.x the examples should just work (if they do not please let me know via
-an Issue). In such a case you should change the kernel in the Jupyter Notebook
-to match the one Julia version you have installed.
+All the examples are checked under Julia 1.8.2.
 
 Before you start please make sure that you have all the required packages
 installed. The simplest way to do it is to perform the following steps
