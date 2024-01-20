@@ -1,5 +1,7 @@
 # JuliaCon2020-DataFrames-Tutorial
 
+[![JuliaCon2020 Talk](https://img.youtube.com/vi/X7AJf0C4Czw/0.jpg)](https://www.youtube.com/watch?v=X7AJf0C4Czw)
+
 ## Introduction
 
 This tutorial is prepared for JuliaCon2020 presentation [A deep dive into
